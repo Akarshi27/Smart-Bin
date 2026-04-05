@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "69c819cac91a7c3a887b8126",
+    "name": "urvi",
+    "binId": "121212",
+    "email": "chauhanpriya1926@gmail.com",
+    "points": 1,
+    "createdAt": "2026-03-28T18:11:22.392Z"
+  },
+  {
+    "_id": "69c81ee737fedc986576ed94",
+    "name": "ria",
+    "email": "priya.2428cseaiml148@kiet.edu",
+    "points": 0,
+    "createdAt": "2026-03-28T18:33:11.045Z"
+  },
+  {
+    "_id": "69c840e8eb461e8e9c27d20d",
+    "name": "Demo Judge",
+    "binId": "google_1774731496630",
+    "email": "demo_judge@google.com",
+    "points": 0,
+    "createdAt": "2026-03-28T20:58:16.631Z"
+  },
+  {
+    "_id": "69c85098ec8b8595624b142c",
+    "name": "shreya",
+    "binId": "2428cseaiml2556",
+    "email": "guptaurvi163@gmail.com",
+    "points": 39,
+    "createdAt": "2026-03-28T22:05:12.101Z"
+  },
+  {
+    "_id": "69c85ff12a012ad4d35fd21f",
+    "name": "Demo Resident",
+    "email": "demo@ecotect.com",
+    "binId": "DEMO-888",
+    "points": 9,
+    "createdAt": "2026-03-28T23:10:41.069Z"
+  }
+]
